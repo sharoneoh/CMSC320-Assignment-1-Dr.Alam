@@ -21,3 +21,11 @@ scenarios. Overall, the results can be applied to the next tests or can help a
 company push out a beneficial product. As well, in Formula 1, I have seen teams
 utilize data science to improve the design of the car, making sure that the 
 aerodynamics and lap times improve as the year progresses.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is when you combine the histories of two branches and will 
+take changes from one branch and apply to the other, trying to minimize 
+conflicts. Rebasing is when you take changes from one branch and reapplies
+them to another branch. It will rewrite the commit history. Rebasing will 
+erase history while merging will preserve it.  
