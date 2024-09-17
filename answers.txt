@@ -1,0 +1,23 @@
+Q1: Why might be consider using git?
+
+Answer: One may consider using git because it is a reliable and industry
+standard tool. In addition, when working in groups, git is a lot more useful
+to use because multiple people are able to access the same code in a faster, 
+and less tedious to share one machine. When working on a project, git also 
+makes it easier to be able to access the version history. In which, we are
+able to see what changes were made and if necessary, revert to those 
+past versions. 
+
+Q2: What field could data science be applied to? Give and Example and how it
+ might help
+
+Answer: Data science could be applied to relatively any field, from the
+business to medical field. Some examples include: trading, to be able to 
+capitalize on gains and minimize losses, in the medical field to keep track 
+of patient studies and trials, and every research field because research 
+uses data. Data science helps as it can work with repetitive scenarios,
+capitalize gains, improve the algorithm, and working to minimize dangerous 
+scenarios. Overall, the results can be applied to the next tests or can help a 
+company push out a beneficial product. As well, in Formula 1, I have seen teams
+utilize data science to improve the design of the car, making sure that the 
+aerodynamics and lap times improve as the year progresses.
