@@ -29,3 +29,10 @@ take changes from one branch and apply to the other, trying to minimize
 conflicts. Rebasing is when you take changes from one branch and reapplies
 them to another branch. It will rewrite the commit history. Rebasing will 
 erase history while merging will preserve it.  
+
+Q4: What skills do you hope to improve during this course? 
+
+Answer: I hope to gain data skills and be able to comfortably use Git. For data
+skills, I mean utilizing SQL, Excel, and being able to use Python libraries. I
+never really had a chance in any of my other classes, and I hope that I can 
+apply these skills in a job in the future.
